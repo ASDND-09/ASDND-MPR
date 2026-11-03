@@ -128,3 +128,7 @@ docker compose -f monitoring/docker-compose.monitoring.yml up -d
 - Prometheus UI: `http://localhost:9090`
 - Grafana Dashboard: `http://localhost:3001` (user: `admin`, pass: `admin`)
 - Raw Application Metrics: `http://localhost:3000/metrics`
+
+
+
+Made by Kaushal Patil
